@@ -40,9 +40,9 @@
   ### GitHub
   <div align="center">
 
-   ![](https://github-readme-stats.vercel.app/api?username=ParthJohri&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-   ![](https://github-readme-streak-stats.herokuapp.com/?user=ParthJohri&theme=tokyonight&hide_border=false)<br/>
-   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ParthJohri&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-   ![](https://github-readme-activity-graph.vercel.app/graph?username=ParthJohri&theme=tokyo-night)
+   ![](https://github-readme-stats.vercel.app/api?username=adarsh-jha-dev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+   ![](https://github-readme-streak-stats.herokuapp.com/?user=adarsh-jha-dev&theme=tokyonight&hide_border=false)<br/>
+   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-jha-dev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+   ![](https://github-readme-activity-graph.vercel.app/graph?username=adarsh-jha-dev&theme=tokyo-night)
 
   </div>
