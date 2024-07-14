@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am currently learning Web3. I am a MERN stack, NextJS developer. Actively looking for internship and learning opportunities.<br>
+I am Adarsh, a 3rd year CS undergrad. I am currently learning Web3. I am a MERN stack, NextJS developer. Actively looking for internship and learning opportunities.
+Explore my [portfolio](https://portfolio-ten-xi-38.vercel.app/) to know more about my skill-set.
+<br>
 
 
 ## 🌐 Socials:
